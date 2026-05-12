@@ -29,5 +29,20 @@ This project demonstrates:
 - CMS data familiarity
 - Structured data output generation
 
+
+## Data Source
+
+This project uses publicly available CMS data:
+
+**Medicare Provider Utilization and Payment Data: Physician and Other Supplier**
+
+https://data.cms.gov
+
+The full dataset contains millions of records and is not included due to size. A sample file is provided to demonstrate structure and analysis workflow.
+
+This approach reflects real-world data practices where large healthcare datasets are accessed through secure systems rather than shared directly.
+
+
+
 ## Author
 LaTonya Bynum, MPH, MCHES
